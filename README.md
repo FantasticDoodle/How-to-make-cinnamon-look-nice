@@ -7,4 +7,9 @@ Cinnmon is a great Desktop Environment(or DE) madeby the Linux Mint team. I pers
 
 **This is not a Cinnamon tutorial. This is just for cinnamon's customization options.**
 
+# Chapter 1
+## Initial customization
+
+#### Cinnamon will initially look something like this when you first start it:
+
 ![Example](2022-08-19-192050_1920x1080_scrot.png)
