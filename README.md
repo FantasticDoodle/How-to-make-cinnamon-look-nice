@@ -12,3 +12,9 @@ Cinnmon is a great Desktop Environment(or DE) madeby the Linux Mint team. I pers
 
 Cinnamon will initially look something like this when you first start it:
 ![Example](2022-08-19-192050_1920x1080_scrot.png)
+Really doesn't look nice, does it.
+The main issues here are the GTK, icon and button themes.
+
+## Changing themes
+
+Thankfully, Cinnamon has graphical tools for changing almost every setting. To fix this issue, go into the system settings app.
